@@ -1,0 +1,96 @@
+TestCase 1: 
+
+Input:
+5
+1
+1
+0
+w
+1
+Output:1
+
+TestCase 2: 
+
+Input:
+4
+1
+0
+0
+w
+Output:-3
+
+TestCase 4: 
+
+Input:
+5
+0
+0
+0
+w
+1
+Output:-3
+
+TestCase 5:
+
+Input:
+5
+0
+0
+0
+0
+w
+Output:-6
+
+TestCase 6:
+
+Input:
+4
+w
+w
+w
+w
+Output:-8
+
+TestCase 7:
+
+Input:
+5
+0
+0
+0
+0
+0
+Output:-4
+
+TestCase 8:
+
+Input:
+5
+1
+1
+1
+1
+1
+Output:5
+
+TestCase 9:
+
+Input:
+5
+0
+0
+1
+0
+0
+Output:-3
+
+TestCase 10:
+
+Input:
+4
+1
+0
+1
+0
+Output:2
+
